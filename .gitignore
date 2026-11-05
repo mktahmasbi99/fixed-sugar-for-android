@@ -4,3 +4,13 @@
 local.properties
 .idea/
 *.iml
+
+# Android packages and signing files
+*.apk
+*.aab
+*.idsig
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pk8

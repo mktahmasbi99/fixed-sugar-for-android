@@ -4,6 +4,8 @@ Fixed Sugar is a personal, offline Android diary for tracking blood sugar, food 
 
 ## Build and run
 
+Download the signed APK from the [GitHub Releases page](https://github.com/mktahmasbi99/fixed-sugar-for-android/releases/latest) to install Fixed Sugar on Android.
+
 Use JDK 17 or later and install Android SDK Platform 36 and Build Tools 35.0.0. Set `ANDROID_HOME` to the SDK directory or open the project in Android Studio.
 
 ```sh
